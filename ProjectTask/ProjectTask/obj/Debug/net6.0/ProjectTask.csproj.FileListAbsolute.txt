@@ -1,0 +1,15 @@
+C:\Users\User.DESKTOP-APSRJKR\source\repos\ProjectTask\ProjectTask\bin\Debug\net6.0\ProjectTask.exe
+C:\Users\User.DESKTOP-APSRJKR\source\repos\ProjectTask\ProjectTask\bin\Debug\net6.0\ProjectTask.deps.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\ProjectTask\ProjectTask\bin\Debug\net6.0\ProjectTask.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\ProjectTask\ProjectTask\bin\Debug\net6.0\ProjectTask.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\ProjectTask\ProjectTask\bin\Debug\net6.0\ProjectTask.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\ProjectTask\ProjectTask\obj\Debug\net6.0\ProjectTask.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\ProjectTask\ProjectTask\obj\Debug\net6.0\ProjectTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\source\repos\ProjectTask\ProjectTask\obj\Debug\net6.0\ProjectTask.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\ProjectTask\ProjectTask\obj\Debug\net6.0\ProjectTask.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\source\repos\ProjectTask\ProjectTask\obj\Debug\net6.0\ProjectTask.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\ProjectTask\ProjectTask\obj\Debug\net6.0\ProjectTask.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\ProjectTask\ProjectTask\obj\Debug\net6.0\refint\ProjectTask.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\ProjectTask\ProjectTask\obj\Debug\net6.0\ProjectTask.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\ProjectTask\ProjectTask\obj\Debug\net6.0\ProjectTask.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\ProjectTask\ProjectTask\obj\Debug\net6.0\ref\ProjectTask.dll

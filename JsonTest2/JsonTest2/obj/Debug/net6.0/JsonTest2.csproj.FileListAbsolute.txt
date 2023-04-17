@@ -1,0 +1,17 @@
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\bin\Debug\net6.0\JsonTest2.exe
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\bin\Debug\net6.0\JsonTest2.deps.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\bin\Debug\net6.0\JsonTest2.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\bin\Debug\net6.0\JsonTest2.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\bin\Debug\net6.0\JsonTest2.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\obj\Debug\net6.0\JsonTest2.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\obj\Debug\net6.0\JsonTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\obj\Debug\net6.0\JsonTest2.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\obj\Debug\net6.0\JsonTest2.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\obj\Debug\net6.0\JsonTest2.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\obj\Debug\net6.0\JsonTest2.csproj.CopyComplete
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\obj\Debug\net6.0\JsonTest2.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\obj\Debug\net6.0\refint\JsonTest2.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\obj\Debug\net6.0\JsonTest2.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\obj\Debug\net6.0\JsonTest2.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\JsonTest2\JsonTest2\obj\Debug\net6.0\ref\JsonTest2.dll
